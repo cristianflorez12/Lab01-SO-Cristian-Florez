@@ -1,0 +1,4 @@
+hola mundo!
+1234567890
+!@#$%^&*()
+foo-bar_foo

@@ -1,0 +1,6 @@
+foo
+Foo
+foobar
+barfoo
+sin coincidencia
+foo foo foo
